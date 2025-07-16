@@ -293,7 +293,7 @@ const Index = () => {
               <div className="bg-gradient-to-br from-blue-900 to-slate-800 rounded-2xl p-4 shadow-2xl">
                 <div className="aspect-square bg-gradient-to-br from-blue-100 to-slate-100 rounded-xl overflow-hidden">
                   <img 
-                    src="/lovable-uploads/508008df-bd66-4b60-9d7e-71fa183caf62.png" 
+                    src="public/lovable-uploads/508008df-bd66-4b60-9d7e-71fa183caf62.png" 
                     alt={t.hero.name}
                     className="w-full h-full object-cover object-center"
                   />
